@@ -1,10 +1,7 @@
-<<<<<<< HEAD
-# Facebook_data_analysis
-This project mainly use pandas for data mainpulation and Matplotlib for Visualization and Streamit for interface 
-=======
+
 # Facebook Data Analysis Framework
 
-A professional-grade analytical system designed for processing and visualizing large-scale Facebook demographic and engagement data.
+An analytical system designed for processing and visualizing large-scale Facebook demographic and engagement data.
 
 ## Problem Statement
 
@@ -68,7 +65,3 @@ Follow these steps to deploy the application in a local environment:
 The Facebook Data Analysis Framework demonstrates a robust approach to social media analytics through modular engineering. By separating data ingestion, analysis, and visualization into autonomous components, the system achieves high reliability and maintainability. This project serves as a comprehensive tool for understanding demographic patterns and engagement dynamics within social networks.
 
 ---
-**Version**: 1.1.0  
-**Status**: Stable  
-**Created**: June 2026
->>>>>>> 0e5615f (Initial commit: Facebook analysis project files)
