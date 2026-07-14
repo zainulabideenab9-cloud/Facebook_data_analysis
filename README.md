@@ -5,7 +5,7 @@ An analytical system designed for processing and visualizing large scale Faceboo
 
 ## Problem Statement
 
-Manual analysis of social media datasets is inherently inefficient and prone to human error. Digital marketing professionals and demographic researchers often face challenges in:
+Manual analysis of social media datasets is inherently inefficient and prone to human error. Digital marketing professionals and  researchers often face challenges in:
 - Extracting meaningful trends from raw Excel datasets.
 - Maintaining data integrity during manual cleaning processes.
 - Visualizing complex correlations between user activity and network reach.
