@@ -1,5 +1,5 @@
 
-# Facebook Data Analysis Framework
+# Facebook Data Analysis Application
 
 An analytical system designed for processing and visualizing large-scale Facebook demographic and engagement data.
 
