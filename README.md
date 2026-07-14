@@ -1,7 +1,7 @@
 
 # Facebook Data Analysis Application
 
-An analytical system designed for processing and visualizing large-scale Facebook demographic and engagement data.
+An analytical system designed for processing and visualizing large scale Facebook demographic and engagement data.
 
 ## Problem Statement
 
