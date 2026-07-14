@@ -20,7 +20,7 @@ The Facebook Data Analysis Framework provides an automated, end-to-end pipeline 
 - **High-Fidelity Visualization**: Publication-quality graphical representations.
 - **Interactive Interface**: A reactive dashboard for user-driven data exploration.
 
-## Modules in the Project
+## Modules in this Project
 
 ### 1. Data Loader Module (`src/data_loader.py`)
 The gateway for all incoming data. It handles the initial extraction from Excel workbooks, validates the presence of required schema attributes (UserID, Name, Age, etc.), and performs sanitization tasks such as removing duplicates and normalizing data types.
